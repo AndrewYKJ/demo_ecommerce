@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435069068451",
+    "project_id": "furnitureclone",
+    "storage_bucket": "furnitureclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435069068451:android:64097b23f0269515d28b16",
+        "android_client_info": {
+          "package_name": "com.furniture.clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435069068451-fsrj6touj7tr1pbtch4p164ivtrn5aqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHYJZhiWG5EQMCl7W2EyLZy7Si7ouIFiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435069068451-fsrj6touj7tr1pbtch4p164ivtrn5aqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
