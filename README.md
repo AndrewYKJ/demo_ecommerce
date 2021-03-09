@@ -10,13 +10,14 @@ A simple E-Commerce App for flutter using firebase and stripe payment.
 
 ##
 Only tried on Android.
-
 ##
 Android Screenshot
 ##
-![image](https://user-images.githubusercontent.com/67141624/110478587-76152a80-811f-11eb-9134-d5d7b1187733.png).
-![image](https://user-images.githubusercontent.com/67141624/110480696-bb3a5c00-8121-11eb-8ad6-64f03b1b732f.png)
-![image](https://user-images.githubusercontent.com/67141624/110480759-d016ef80-8121-11eb-9511-928cd37d2e37.png)
+![image](https://user-images.githubusercontent.com/67141624/110481143-34d24a00-8122-11eb-909c-c06ce8a89181.png)
+![image](https://user-images.githubusercontent.com/67141624/110481228-4ca9ce00-8122-11eb-88ad-06c3be7751fd.png)
+![image](https://user-images.githubusercontent.com/67141624/110481392-7c58d600-8122-11eb-9f5a-4ec5a6c641eb.png)
+![image](https://user-images.githubusercontent.com/67141624/110481463-8f6ba600-8122-11eb-8175-1a58aba8cf55.png)
+![image](https://user-images.githubusercontent.com/67141624/110481621-baee9080-8122-11eb-9e69-3503b462186b.png)
 
 
 
